@@ -1,0 +1,38 @@
+<annotation>
+	<folder>hook</folder>
+	<filename>hook_46.jpg</filename>
+	<path>C:\Users\VenkateshSomasamudra\OneDrive - Enpal GmbH\Desktop\Master Thesis\company dataset\hook\hook_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>3462</ymin>
+			<xmax>1387</xmax>
+			<ymax>4123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1716</xmin>
+			<ymin>59</ymin>
+			<xmax>1939</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
