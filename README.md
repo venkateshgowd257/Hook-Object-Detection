@@ -1,5 +1,5 @@
 # Hook-Object-Detection
-Object detection and localization using deep learning and comparing with state of the art models.
+Object detection and localization using deep learning and comparison with state of the art models.
 
 There are two different models used for Object detection
 
