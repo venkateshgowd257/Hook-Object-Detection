@@ -3,7 +3,7 @@ Object detection and localization using deep learning and comparing with state o
 
 There are two different models used for Object detection
 
-1: YOLO(You Only Look Once) Version 5,
+1: YOLO(You Only Look Once) Version 5
 
 2: SSD_MobileNet
 
