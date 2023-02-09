@@ -4,7 +4,6 @@ Object detection and localization using deep learning and comparison with state 
 There are three different models used for Object detection
 
 1: YOLO(You Only Look Once) Version 7 pytorch 
-
 2. YOLO(You Only Look Once) Version 5 pytorch
 
 3: SSD_MobileNet
